@@ -28,8 +28,8 @@ All diagrams and documents can be found in the `/diagrams` folder. The prefix no
 In order to make a successful connection to the database, make sure you check the file: `/src/databaselayer/DBConnection.java`. Lines 14 and 15 should look like this:
 
 ```java
-private static String userName = ";user=sa";
-private static String password = ";password=Password1!";
+14. private static String userName = ";user=sa";
+15. private static String password = ";password=Password1!";
 ```
 
 Make sure you change the user and password within the quotes to match your user and password login.
