@@ -17,7 +17,7 @@ This workshop is a part of the 2nd semester curriculum for the Computer Science 
 
 ## Section 1: System Development (Diagrams and Use-Case scenarios)
 
-All diagrams and documents can be found in the `/diagrams` folder. The prefix notation is as follows:
+All cases can be found in the `/docs` folder. The prefix notation is as follows:
 
 - `[TC]` - **T**est **C**ase
 - `[UC]` - **U**se **C**ase
